@@ -1,5 +1,5 @@
 # Self-Driving-Car
-Model of self driving car using RL
+**Model of self driving car using RL**
 
 
 Add certain features - 
