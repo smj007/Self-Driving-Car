@@ -2,7 +2,7 @@
 **Model of self driving car using RL**
 
 
-**Add certain features - **
+**Add certain features** :
 
 - Configure the default_timer()
 
