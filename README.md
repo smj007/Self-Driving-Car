@@ -2,14 +2,14 @@
 **Model of self driving car using RL**
 
 
-Add certain features - 
+**Add certain features - **
 
-Configure the default_timer()
+- Configure the default_timer()
 
-Test out difficult paths
+- Test out difficult paths
 
-Try to add another layer in the ANN
+- Try to add another layer in the ANN
 
-Change the reward values given
+- Change the reward values given
 
-Tweak the temperature value in the softmax decision for Q
+- Tweak the temperature value in the softmax decision for Q
